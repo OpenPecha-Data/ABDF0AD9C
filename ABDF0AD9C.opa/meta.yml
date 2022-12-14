@@ -1,0 +1,20 @@
+id: ABDF0AD9C
+title: Toh_286-The_Dedication_Protecting_All_Beings-v2
+type: translation
+pechas:
+- IDADF0D0A
+- I5622CDD2
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-068-020
+  eft-text-version: 1.1.3 2020
+  title: Toh_286-The_Dedication_Protecting_All_Beings-v2
+alignment_to_base:
+  IDADF0D0A/A93C: '3395'
+  I5622CDD2/85BE: '3395'
